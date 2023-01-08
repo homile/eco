@@ -20,9 +20,7 @@ ${reset}
   
   a{
     text-decoration: none;
-    &:link,&:visited{
-      color: inherit;
-    }
+    color: #000000;
   }
   
   button{
