@@ -28,6 +28,14 @@ ${reset}
     border: none;
     padding: 0;
   }
+
+  h1{
+    font-size: 24px;
+  }
+
+  h2{
+    font-size: 20px;
+  }
 `;
 
 export default GlobalStyle;
