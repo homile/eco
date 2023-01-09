@@ -8,12 +8,11 @@ const Nav = () => {
       <NavContainer>
         <ContentContainer>
           <ContentLink to="/">기본소개</ContentLink>
-          <ContentLink to="/strength">강점</ContentLink>
-          <ContentLink to="/board">게시판</ContentLink>
+          <ContentLink to="/strength">더 알아보기</ContentLink>
+          <ContentLink to="/board">질문해보세요</ContentLink>
         </ContentContainer>
         <AuthContainer>
           <AuthLink to="/login">로그인</AuthLink>
-          <AuthLink to="/signup">회원가입</AuthLink>
         </AuthContainer>
       </NavContainer>
     </Header>
